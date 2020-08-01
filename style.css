@@ -96,6 +96,11 @@
 .btn{
     background-color: rgb(95,189,116);
 }
+.btnhome{
+    background-color: rgb(95,189,116);
+    text-decoration: none;
+    color: white;
+}
 
 .ourpro img{
     width: 100%;
@@ -146,6 +151,18 @@ footer{
     display: inline;
 }
 
+
+
+
+.about p{
+    text-align: justify;
+    font-family: times roman;
+    font-size: 18px;
+}
+.about ul li{
+    list-style:circle;
+    font-size: 18px;
+}
 
 @media (max-width: 1200px){
     footer{
