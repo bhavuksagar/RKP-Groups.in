@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    margin: 0;
+    padding: 0;
+    height: 130px;
+    z-index: 10;
+    width: 100%;
+    border-bottom: 2px solid;
+}
+.navbar ul li{
+    display: inline;
+    float: right;
+}
+.logo{
+    display: inline;
+}
+.logo img{
+    padding-left: 90px;
+}
+.navbar ul{
+    display: inline;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: gray;
+    padding: 20px;
+}
+.navbar ul li{
+    padding: 50px 40px;
+    font-size: 17px;
+    padding-right: 50px;
+}
+.navbar ul li a:hover{
+    border-radius: 20px;
+    background: rgb(95,189,116);
+    color: white;
+    
